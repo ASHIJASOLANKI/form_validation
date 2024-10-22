@@ -1,0 +1,28 @@
+body {
+    background-color: #eee;
+}
+.col-md-3{
+    margin-top: 5rem;
+    background-color: #fff;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+h3{
+    text-align: center;
+}
+.formelement {
+    margin-bottom: 1.25rem;
+}
+small {
+    display: block;
+    float: right;
+    font-size: small;
+    color: red;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+.btn {
+    width: 50%;
+}
